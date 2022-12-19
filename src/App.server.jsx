@@ -40,7 +40,7 @@ function App({request}) {
           data={{
             title: 'Hydrogen',
             description:
-              "A custom storefront powered by Hydrogen, Shopify's React-based framework for building headless.",
+              "Women's lingerie",
             titleTemplate: `%s · Hydrogen`,
           }}
         />
